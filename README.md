@@ -92,7 +92,7 @@ RAID (redundant array of independent disks, 磁碟陣列)
 ```
 高階主管必須支持緊急應變方案，最適合的層級是組織的資訊長 (Chief Information Officer, CIO)。
 緊急應變政策的主要成分應包括：
->* 角色與責任
+角色與責任
 緊急應變計畫的範圍
 所需要的資源和訓練
 演練與測試的時間表
