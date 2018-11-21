@@ -73,16 +73,16 @@ SQL注入攻击（SQL injection），简称SQL攻击或注入攻击，是发生�
 ```
 # 2017 OWASP TOP 10
 ```
-A1  Injection
-A2  Broker Authentication
-A3  Sensitive Data Exposure
-A4  XML External Entities (XXE)
-A5  Broken Access Control
-A6  Security Misconfiguration
-A7  Cross-Site Script (XSS)
-A8  Insecure Deserialization
-A9  Using Components with Known Vulnerabilities
-A10 Insufficient Logging and Monitoring
+A1  Injection(注入攻擊)
+A2  Broker Authentication(無效身份認證)
+A3  Sensitive Data Exposure(敏感資料外洩)
+A4  XML External Entities (XXE)(XML 外部處理器漏洞)
+A5  Broken Access Control(無效的存取控管)
+A6  Security Misconfiguration(不安全的組織設定)
+A7  Cross-Site Script (XSS)(跨站攻擊)
+A8  Insecure Deserialization(不安全的反序列化漏洞)
+A9  Using Components with Known Vulnerabilities(使用已有漏洞的元件)
+A10 Insufficient Logging and Monitoring(記錄與監控不足的風險)
 ```
 # 參考網址
 ```
