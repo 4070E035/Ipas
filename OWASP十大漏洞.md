@@ -5,7 +5,6 @@ Open Web Application Security Project 開放網站應用程式安全計畫
 我們可以透過網路上OWASP組織提供的防護方法以及弱點介紹，我們可以很快地檢視自己的網站是否有安全弱點。
 OWASP是一個開放社群的非營利組織，致力於改善網站應用程式的安全性。
 OWASP Top 10揭露常見的網站應用程式弱點，以供軟體開發安全參考。
-
 ```
 # 注入攻擊(Injection)
 ```
@@ -71,6 +70,19 @@ SQL注入攻击（SQL injection），简称SQL攻击或注入攻击，是发生�
 # 記錄與監控不足的風險 (Insufficient Logging & Monitoring)
 ```
 記錄與監控不足的風險主要是因為微服務快速興起，卻沒有針對應用程式進行記錄和監控，此時因為記錄和監控的不足，所以當資安事件發生時就無法立即處理與解決問題，同時讓攻擊者有機會更進一步攻擊系統。所以建議確保所有使用者登入、存取控制失敗和伺服器端輸入驗證失敗皆進行記錄，以利識別可疑或惡意的帳戶，並且保留足夠的時間允許延遲進行數位鑑識分析
+```
+# 2017 OWASP TOP 10
+```
+A1  Injection
+A2  Broker Authentication
+A3  Sensitive Data Exposure
+A4  XML External Entities (XXE)
+A5  Broken Access Control
+A6  Security Misconfiguration
+A7  Cross-Site Script (XSS)
+A8  Insecure Deserialization
+A9  Using Components with Known Vulnerabilities
+A10 Insufficient Logging and Monitoring
 ```
 # 參考網址
 ```
