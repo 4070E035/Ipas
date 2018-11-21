@@ -1,3 +1,10 @@
+# OWASP組織是什麼?
+```
+Open Web Application Security Project 開放網站應用程式安全計畫 
+OWASP是一個開放社群的非營利組織，致力於改善網站應用程式的安全性。
+OWASP Top 10揭露常見的網站應用程式弱點，以供軟體開發安全參考。
+
+```
 # 注入攻擊(Injection)
 ```
 SQL注入攻击（SQL injection），简称SQL攻击或注入攻击，是发生于应用程序与数据库层的安全漏洞。简而言之，是在输入的字符串之中注入SQL指令，
