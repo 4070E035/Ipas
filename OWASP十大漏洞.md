@@ -1,6 +1,8 @@
 # OWASP組織是什麼?
 ```
-Open Web Application Security Project 開放網站應用程式安全計畫 
+Open Web Application Security Project 開放網站應用程式安全計畫
+
+我們可以透過網路上OWASP組織提供的防護方法以及弱點介紹，我們可以很快地檢視自己的網站是否有安全弱點。
 OWASP是一個開放社群的非營利組織，致力於改善網站應用程式的安全性。
 OWASP Top 10揭露常見的網站應用程式弱點，以供軟體開發安全參考。
 
