@@ -69,4 +69,5 @@ https://www.ithome.com.tw/news/118411
 https://ithelp.ithome.com.tw/articles/10189733
 http://newsletter.ascc.sinica.edu.tw/news/read_news.php?nid=1917
 https://leoyeh.me/2017/11/24/%E8%B3%87%E5%AE%89%E7%AE%A1%E7%90%86-OWASP-Top-10-1/
+http://newsletter.ascc.sinica.edu.tw/news/read_news.php?nid=1917
 ```
